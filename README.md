@@ -1,4 +1,4 @@
-# devmeetup-vue
+# devmeetup
 
 ## Project setup
 ```
