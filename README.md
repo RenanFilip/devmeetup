@@ -1,5 +1,7 @@
 # devmeetup
 
+Projeto devmeetup para marcar reuniões, utilizando Vue.js e Firebase.
+
 ## Project setup
 ```
 npm install
